@@ -22,7 +22,9 @@
 
 2. Correr este proyecto:
 
-   <p> 
-   2.1 Desarrollo: <br>
-   npm run dev
-  </p>
+   <p>2.1 Desarrollo:
+        npm run dev
+
+        2.2 Producción:
+        npm run build
+   </p>
