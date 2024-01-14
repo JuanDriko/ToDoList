@@ -10,7 +10,7 @@
 
    <h3>Clonar Proyecto </h3>
   
-  git clone https://github.com/JuanDriko/ToDoList.git/'
+  git clone https://github.com/JuanDriko/ToDoList.git/
 
    1.1 Navega al directorio del proyecto:
    cd todolis
