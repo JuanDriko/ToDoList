@@ -11,10 +11,10 @@
   git clone https://github.com/JuanDriko/ToDoList.git/
 
    <p>
-   1.1 Navega al directorio del proyecto:
-   cd todolis
+   1.1 Navega al directorio del proyecto: <br>
+   cd todolist
    
-   1.2 Instala las dependencias:
+   1.2 Instala las dependencias: <br>
    npm install   
  </p>
  
@@ -25,7 +25,4 @@
    <p> 
    2.1 Desarrollo: <br>
    npm run dev
-   
-   2.2 Producción: <br>
-   npm run dev
-</p>
+  </p>
