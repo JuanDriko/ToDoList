@@ -8,7 +8,7 @@
 
 1. Clona este repositorio:
 
-   <a href='git clone https://github.com/JuanDriko/ToDoList.git/'>Clonar Proyecto
+   <a href='git clone https://github.com/JuanDriko/ToDoList.git/'>Clonar Proyecto</a>
 
    <p>1.1 Navega al directorio del proyecto:
    cd todolis
