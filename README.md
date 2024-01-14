@@ -2,26 +2,27 @@
 
 ¡Bienvenido a mi increíble proyecto Vue.js utilizando efectos, localStorage y CSS! 
 
-<a href='git clone https://github.com/JuanDriko/ToDoList.git/'>Ver Pagina aquí
+<a href='https://juandriko.github.io/ToDoList/'>Ver Pagina aquí </a>
 
 ## Instalación
 
 1. Clona este repositorio:
+  
+  git clone https://github.com/JuanDriko/ToDoList.git/
 
-   <a href='git clone https://github.com/JuanDriko/ToDoList.git/'>Clonar Proyecto</a>
+   <p>
+   1.1 Navega al directorio del proyecto: <br>
+   cd todolist
+   
+   1.2 Instala las dependencias: <br>
+   npm install   
+ </p>
+ 
+## Uso
 
-   <p>1.1 Navega al directorio del proyecto:
-   cd todolis
-   1.2 Instala las dependencias:
-   npm install
-   </p>
+2. Correr este proyecto:
 
-   ## Uso
-2. Clona este repositorio:
-
-   <p>2.1 Desarrollo:
-        npm run dev
-
-        2.2 Producción:
-        npm run build
-   </p>
+   <p> 
+   2.1 Desarrollo: <br>
+   npm run dev
+  </p>
