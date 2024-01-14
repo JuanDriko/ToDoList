@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi increíble proyecto Vue.js utilizando efectos, localStorage y CSS! 
 
-<a href='https://github.com/JuanDriko/ToDoList.git/'>Ver Pagina aquí </a>
+<a href='https://juandriko.github.io/ToDoList/'>Ver Pagina aquí </a>
 
 ## Instalación
 
