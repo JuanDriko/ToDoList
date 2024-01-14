@@ -23,9 +23,9 @@
 2. Clona este repositorio:
 
    <p> 
-   2.1 Desarrollo:
+   2.1 Desarrollo: <br>
    npm run dev
    
-   2.2 Producción:
-   npm run build
+   2.2 Producción: <br>
+   npm run dev
 </p>
