@@ -20,7 +20,7 @@
  
 ## Uso
 
-2. Clona este repositorio:
+2. Correr este proyecto:
 
    <p> 
    2.1 Desarrollo: <br>
