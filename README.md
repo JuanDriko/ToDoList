@@ -7,8 +7,6 @@
 ## Instalación
 
 1. Clona este repositorio:
-
-   <h3>Clonar Proyecto </h3>
   
   git clone https://github.com/JuanDriko/ToDoList.git/
 
