@@ -1,8 +1,9 @@
 # ToDoList Vue 3 + Vite
 
-¡Bienvenido a mi increíble proyecto Vue.js utilizando efectos, localStorage y CSS! 
+<h2>TravelVue Vue Router CSS </h2>
+¡Bienvenido a mi increíble proyecto Vue.js utilizando efectos, LocalStorage y CSS!
+<a href='https://juandriko.github.io/ToDoList/'> Ver la pagina aqui </a>
 
-<a href='https://juandriko.github.io/ToDoList/'>Ver Pagina aquí </a>
 
 ## Instalación
 
@@ -22,9 +23,7 @@
 
 2. Correr este proyecto:
 
-   <p>2.1 Desarrollo:
-        npm run dev
-
-        2.2 Producción:
-        npm run build
-   </p>
+   <p> 
+   2.1 Desarrollo: <br>
+   npm run dev
+  </p>
