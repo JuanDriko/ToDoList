@@ -19,7 +19,7 @@
    1.2 Instala las dependencias:
    npm install   
  </p>
-   ## Uso
+ ## Uso
 2. Clona este repositorio:
 
    <p> 
