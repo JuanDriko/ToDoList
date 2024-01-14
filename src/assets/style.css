@@ -1,0 +1,149 @@
+:root {
+  --primary-color: #52a575;
+  --secondary-color: #000000;
+  --tertiary-color: #969696;
+  --progress: #eca842;
+  --delete: #b92c2c;
+  --white: #ffff;
+
+  --type-primary: "Roboto", sans-serif;
+  --type-secondary: Helvetica, Arial, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  vertical-align: baseline;
+}
+a {
+  display: block;
+}
+p a {
+  display: inline;
+}
+li {
+  list-style-type: none;
+}
+html {
+  scroll-behavior: smooth;
+  font-family: var(--type-primary);
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 100%;
+}
+/* h1,h2,h3,h4,h5,h6,p,span,a,strong,blockquote,i,b,u,em{
+    font-size: 1em;
+} */
+
+/*/----------------------------------------------/*/
+#counter_table {
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+#counter {
+  margin-top: 2.5em;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: var(--white);
+  box-shadow: 5px 5px 6px var(--secondary-color);
+  min-height: 400px;
+  width: 70%;
+}
+.tabla{
+  width: 99%;
+}
+h1 {
+  text-align: center;
+  margin: 1em;
+  border-bottom: solid 1px var(--tertiary-color);
+}
+i {
+  color: var(--white);
+  margin: 7px;
+}
+
+textarea {
+  border-radius: 10px;
+  border: solid 0.5px var(--tertiary-color);
+}
+
+button {
+  width: 10em;
+  height: 2em;
+  cursor: pointer;
+  background-color: #52a575;
+  border-radius: 5px;
+  margin: 0.5em;
+  box-shadow: 4px 4px 4px var(--tertiary-color);
+  color: var(--white);
+  font-weight: bolder;
+}
+.tabla {
+  margin: 5px;
+  border-radius: 50px;
+}
+.tabla th,
+.tabla td {
+  border-radius: 5px;
+  border-bottom: 1px solid var(--tertiary-color);
+  padding: 8px;
+  text-align: left;
+  text-align: center;
+}
+
+.tabla th {
+  background-color: var(--tertiary-color);
+  color: white;
+}
+
+#trash {
+  width: 4em;
+  background-color: var(--delete);
+}
+#edit{
+  width: 4em;
+}
+
+/*/Modal/*/
+#counter_modal {
+  margin-top: 2.5em;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: var(--white);
+  box-shadow: 5px 5px 6px var(--secondary-color);
+  min-height: 400px;
+
+  position: fixed;
+
+}
+#counter_head{
+  display: flex;
+  justify-content: space-between;
+}
+h2, h3{
+  border-bottom: solid 1px var(--tertiary-color);
+}
+input{
+  margin: 1em
+}
+select{
+  border: solid 0.5px var(--tertiary-color);
+  width: 8em;
+}
+h3 {
+  margin: 0.5em;
+}
+#delete {
+  background-color: var(--tertiary-color);
+}
+#close{
+  width: 2em;
+  background-color: var(--tertiary-color);
+}
+form{
+  margin: 1em 0;
+}
